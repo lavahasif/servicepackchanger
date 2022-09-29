@@ -89,7 +89,7 @@ if value=256 then
      elseif value=512 then
      INewValue="sp2"
           elseif value=768 then
-     INewValue="sp2"
+     INewValue="sp3"
      else
        INewValue="sp0"
      end if
